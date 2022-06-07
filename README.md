@@ -5,13 +5,8 @@
 > NO BOT
 
 
-```bash
-AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PARTE:
-> heroku/nodejs
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-> https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-> https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
-```
+`
+
 
 
 

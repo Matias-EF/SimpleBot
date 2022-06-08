@@ -78,7 +78,7 @@ url: 'https://github.com/BrunoSobrino/SimpleBot'
 {
 urlButton: {
 displayText: '𝙲𝚁𝙴𝙰𝙳𝙾𝚁',
-url: 'https://wa.me/5219992095479'    
+url: 'https://wa.me/595985958156'    
 }},
 {
 quickReplyButton: {

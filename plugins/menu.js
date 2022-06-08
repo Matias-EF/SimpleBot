@@ -69,16 +69,16 @@ hydratedTemplate: {
 hydratedContentText: menu,
 locationMessage: { 
 jpegThumbnail: fs.readFileSync('./Menu2.jpg') },
-hydratedFooterText: '©𝑆𝑖𝑚𝑝𝑙𝑒𝐵𝑜𝑡',
+hydratedFooterText: '𝑷𝑨𝑹𝑨𝑮𝑼𝑨-𝑩𝑶𝑻',
 hydratedButtons: [{
 urlButton: {
-displayText: '𝙶𝙸𝚃𝙷𝚄𝙱',
-url: 'https://github.com/BrunoSobrino/SimpleBot'
+displayText: 'INSTAGRAM',
+url: 'https://www.instagram.com/matiass.zzz'
 }},
 {
 urlButton: {
-displayText: '𝙲𝚁𝙴𝙰𝙳𝙾𝚁',
-url: 'https://wa.me/5219992095479'    
+displayText: 'PROPIETARIO',
+url: 'https://wa.me/595985958156'    
 }},
 {
 quickReplyButton: {
